@@ -9,10 +9,10 @@
     "regex": "^나무위키:대문$",
     "flag": "g"
   }, {
-    "regex": "게임",
+    "regex": "^게임$",
     "flag": "g"
   }, {
-    "regex": "음악",
+    "regex": "^음악$",
     "flag": "g"
   }
 ]
